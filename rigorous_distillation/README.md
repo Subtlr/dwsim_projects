@@ -23,6 +23,8 @@ To simulate the separation of propane, isobutane, neopentane, and n-heptane usin
 
 ## 📊 Results
 
+![DWSIM Simulation](https://github.com/Subtlr/dwsim_projects/blob/main/rigorous_distillation/images/the%20thing.png)
+
 Three key plots were generated to visualize component behavior:
 
 ### 1. Vapor Flow Rates vs Stage
@@ -50,3 +52,4 @@ First-year Chemical Engineering student at UNDIP
 This readme file was made with the assistance of a Large Language Model (LLM)
 
 ---
+
